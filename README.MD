@@ -18,4 +18,5 @@ El termino fue popularizado en el año 2019 por Kiko el Crazy el cual es un arti
 ## Controles de juegos 
 
 Player 1(RED) -> a(left) - d(right) - w(up) - s(down)
+
 Player 2(RED) -> LEFT - RIGHT - UP - DOWN
